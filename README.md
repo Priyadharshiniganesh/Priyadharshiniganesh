@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [M.Sc Student - Microelectronics](University of Bremen)
 
-- 🌱 I’m currently learning **RTL Coding, shell scripting, Static Timing Analysis, Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **RTL Coding, shell scripting, Static Timing Analysis, Machine Learning, Deep Learning, Git and Git version control**
 
 - 💬 Ask me about **VHDL, Logical synthesis, STA and Clock Tree Synthesis**
 
