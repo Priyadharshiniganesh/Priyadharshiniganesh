@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RTL Coding, shell scripting, Static Timing Analysis, Machine Learning, Deep Learning, Git and Git version control**
 
-- 💬 Ask me about **VHDL, Logical synthesis, STA and Clock Tree Synthesis , also Circuit & PCB Design **
+- 💬 Ask me about **VHDL, Logical synthesis, STA and Clock Tree Synthesis , also Circuit & PCB Design**
 
 - 📫 How to reach me **priyadharshiniganesan07@gmail.com**
 
