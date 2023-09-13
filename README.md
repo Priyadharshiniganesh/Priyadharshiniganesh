@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyadharshini Ganesan</h1>
 <h3 align="center">I am a M.Sc student specializing in Microelectronics with interest in Digital IC Design | Physical Design | Machine Learning</h3>
 
-- 🔭 I’m currently working on [M.Sc Student - Microelectronics](University of Bremen)
+- 🔭 I’m currently working on **Master Project in Physical implementation of Gemmini based DNN accelerator and in my free time writing VHDL coding in RTL style and making up a GitHub IO page**
 
 - 🌱 I’m currently learning **RTL Coding, shell scripting, Static Timing Analysis, Machine Learning, Deep Learning, Git and Git version control**
 
